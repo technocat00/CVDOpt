@@ -1,0 +1,4 @@
+Method,Best Quality,Trials Used,Trials to 90% of Best,Trials to 95% of Best
+Bayesian Optimization (EI),0.6023,35,1,10
+Random Search,0.5826,35,1,17
+Grid Search,0.5868,35,10,17
